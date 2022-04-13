@@ -1,0 +1,21 @@
+[{
+        "name": "wab",
+        "mnemonic": "funny leaf abandon open amazing early habit awake climb absorb nature author",
+        "address": "5DwA4ci8ta2qxMaAjP3mDPeqzntxQtXjnA9FMP9g2ggxZV9Q"
+    },
+    {
+        "name": "alice",
+        "mnemonic": "//Alice",
+        "address": "5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY"
+    },
+    {
+        "name": "bob",
+        "mnemonic": "//Bob",
+        "address": "5FHneW46xGXgs5mUiveU4sbTyGBzmstUspZC92UhjJM694ty"
+    },
+    {
+        "name": "CHARLIE",
+        "mnemonic": "//Charlie",
+        "address": "5FLSigC9HGRKVhB9FiEo4Y3koPsNmBmLJbpXg2mp1hXcS59Y"
+    }
+]

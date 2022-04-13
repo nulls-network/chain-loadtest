@@ -1,0 +1,21 @@
+{
+  "name": "substrate-loadtest",
+  "version": "0.1.0",
+  "description": "substrate loadtest",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wuaobo <wuaobo@chainsuns.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "^5.0.1",
+    "@polkadot/keyring": "^7.0.1",
+    "@polkadot/util": "^7.0.1",
+    "chalk": "^4.1.1",
+    "cli-table": "^0.3.6",
+    "log-update": "^4.0.0"
+  }
+}
